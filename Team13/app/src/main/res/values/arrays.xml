@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="agencies">
+        <item>서울시</item>
+        <item>서울자치구</item>
+        <item>중앙정부</item>
+        <item>도/특별시</item>
+    </string-array>
+</resources>
